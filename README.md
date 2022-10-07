@@ -31,7 +31,7 @@ Documetations of Altschool Cloud track problems, updated daily. Please give me a
 
 ## Contributions
 
-I'm looking for contributors/partners to this repo! Send me [PRs](https://github.com/iJ03l/Altschool-Cloud-Playbook/pulls) if you're interested! See the following:
+I'm looking for contributors/partners that understands a particular topic to the core to this repo! Send me [PRs](https://github.com/iJ03l/Altschool-Cloud-Playbook/pulls) if you're interested! See the following:
 
 1. Fork [this repository](https://github.com/iJ03l/Altschool-Cloud-Playbook) to your own GitHub account and then clone it to your local machine.
 1. Checkout a new branch.
