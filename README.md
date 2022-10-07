@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook"><img src="https://img.shields.io/badge/langs-Bash%20%7C%20Linux%20%7C%20C%2B%2B%20%7C%2...-red?style=flat-square&color=42b883" alt="languages"></a>
+  <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook"><img src="https://img.shields.io/badge/langs-Java%20%7C%20Python%20%7C%20C%2B%2B%20%7C%20Go%20%7C%20TypeScript%20%7C%20...-red?style=flat-square&color=42b883" alt="languages"></a>
   <a href="https://altschoolafrica.com/#/?id=how-to-join"><img src="https://img.shields.io/badge/organization-join%20us-42b883?style=flat-square" alt="Educational-Program"></a>
   <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook/blob/main/LICENSE"><img src="https://img.shields.io/github/license/iJ03l/Altschool-Cloud-Playbook?color=42b883&style=flat-square" alt="LICENSE"></a><br>
   <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook/stargazers"><img src="https://img.shields.io/github/stars/iJ03l/Altschool-Cloud-Playbook?color=42b883&logo=github&style=flat-square" alt="stars"></a>
@@ -37,7 +37,7 @@ I'm looking for contributors/partners to this repo! Send me [PRs](https://github
 1. Checkout a new branch.
 1. Make some changes to your repository, then push the changes to your remote GitHub repository.
 1. Create a pull request with your changes!
-1. See [CONTRIBUTING](https://github.com/iJ03l/Altschool-Cloud-Playbook/.github/blob/main/CONTRIBUTING.md) or [GitHub Help](https://help.github.com/en) for more details.
+1. See [CONTRIBUTING](https://github.com/iJ03l/Altschool-Cloud-Playbook/CONTRIBUTING.md) or [GitHub Help](https://help.github.com/en) for more details.
 
 
 You can also contribute to [iJ03l/Altschool-Cloud-Playbook](https://github.com/iJ03l/Altschool-Cloud-Playbook) using [Gitpod.io](https://www.gitpod.io), a free online dev environment with a single click.
