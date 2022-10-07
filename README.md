@@ -8,6 +8,7 @@
   <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook/blob/main/LICENSE"><img src="https://img.shields.io/github/license/iJ03l/Altschool-Cloud-Playbook?color=42b883&style=flat-square" alt="LICENSE"></a><br>
   <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook/stargazers"><img src="https://img.shields.io/github/stars/iJ03l/Altschool-Cloud-Playbook?color=42b883&logo=github&style=flat-square" alt="stars"></a>
   <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook/network/members"><img src="https://img.shields.io/github/forks/iJ03l/Altschool-Cloud-Playbook?color=42b883&logo=github&style=flat-square" alt="forks"></a>
+  </p>
 
 ## Introduction
 
@@ -30,7 +31,7 @@ Documetations to Altschool Cloud track problems, updated daily. Please give me a
 
 ## Contributions
 
-I'm looking for  contributors/partners to this repo! Send me [PRs](https://github.com/iJ03l/Altschool-Cloud-Playbook/pulls) if you're interested! See the following:
+I'm looking for contributors/partners to this repo! Send me [PRs](https://github.com/iJ03l/Altschool-Cloud-Playbook/pulls) if you're interested! See the following:
 
 1. Fork [this repository](https://github.com/iJ03l/Altschool-Cloud-Playbook) to your own GitHub account and then clone it to your local machine.
 1. Checkout a new branch.
