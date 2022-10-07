@@ -35,6 +35,7 @@ I'm looking for contributors/partners that understands a particular topic to the
 
 1. Fork [this repository](https://github.com/iJ03l/Altschool-Cloud-Playbook) to your own GitHub account and then clone it to your local machine.
 1. Checkout a new branch.
+1. Create a dedicated Folder.
 1. Make some changes to your repository, then push the changes to your remote GitHub repository.
 1. Create a pull request with your changes!
 1. See [CONTRIBUTING](https://github.com/iJ03l/Altschool-Cloud-Playbook/blob/master/CONTRIBUTING.md) or [GitHub Help](https://help.github.com/en) for more details.
