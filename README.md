@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook"><img src="/images/altschoollogo.jpg" alt="Altschoolers-Playbook"></a>
+  <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook"><img src="./images/altschoollogo.jpg" alt="Altschoolers-Playbook"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook"><img src="https://img.shields.io/badge/langs-Bash%20%7C%20Linux%20%7C%20C%2B%2B%20%7C%2...-red?style=flat-square&color=42b883" alt="languages"></a>
   <a href="https://altschoolafrica.com/#/?id=how-to-join"><img src="https://img.shields.io/badge/organization-join%20us-42b883?style=flat-square" alt="Educational-Program"></a>
-  <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook/blob/main/LICENSE"><img src="https://img.shields.io/github/license/doocs/leetcode?color=42b883&style=flat-square" alt="LICENSE"></a><br>
-  <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook/stargazers"><img src="https://img.shields.io/github/stars/doocs/leetcode?color=42b883&logo=github&style=flat-square" alt="stars"></a>
-  <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook/network/members"><img src="https://img.shields.io/github/forks/doocs/leetcode?color=42b883&logo=github&style=flat-square" alt="forks"></a>
+  <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook/blob/main/LICENSE"><img src="https://img.shields.io/github/license/iJ03l/Altschool-Cloud-Playbook?color=42b883&style=flat-square" alt="LICENSE"></a><br>
+  <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook/stargazers"><img src="https://img.shields.io/github/stars/iJ03l/Altschool-Cloud-Playbook?color=42b883&logo=github&style=flat-square" alt="stars"></a>
+  <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook/network/members"><img src="https://img.shields.io/github/forks/iJ03l/Altschool-Cloud-Playbook?color=42b883&logo=github&style=flat-square" alt="forks"></a>
 
 ## Introduction
 
@@ -43,10 +43,10 @@ You can also contribute to [iJ03l/Altschool-Cloud-Playbook](https://github.com/i
 
 <a href="https://gitpod.io/#https://github.com/iJ03l/Altschool-Cloud-Playbook" target="_blank" alt="Open in Gitpod"><img src="https://gitpod.io/button/open-in-gitpod.svg"></a>
 
-## Stargazers over time
+<!-- ## Stargazers over time
 
 
-<a href="https://github.com/iJ03l" target="_blank"><img src="./images/starcharts.svg" alt="Stargazers over time" /></a>
+<a href="https://github.com/iJ03l" target="_blank"><img src="./images/starcharts.svg" alt="Stargazers over time" /></a> -->
 
 ## Our Top Contributors
 
