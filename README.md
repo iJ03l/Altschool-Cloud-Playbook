@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook"><img src="./images/altschoollogo.jpg" alt="Altschoolers-Playbook"></a>
+  <a href="https://github.com/iJ03l/Altschool-Cloud-Playbook"><img src="./images/Altschoollogo.jpg" alt="Altschoolers-Playbook"></a>
 </p>
 
 <p align="center">
