@@ -12,14 +12,14 @@
 
 ## Introduction
 
-Documetations to Altschool Cloud track problems, updated daily. Please give me a [star](https://github.com/iJ03l/Altschool-Cloud-Playbook) 🌟 if you like it.
+Documetations of Altschool Cloud track problems, updated daily. Please give me a [star](https://github.com/iJ03l/Altschool-Cloud-Playbook) 🌟 if you like it.
 
 ## Sites
 
 -   Parent: https://altschoolafrica.com
 
 
-## Topics
+## Topics ~So far~
 
 -   Introduction To Linux Operating System
 -   Linux Deep Dive
